@@ -1,0 +1,6 @@
+{
+  "name": "OVRA — Every Workout",
+  "description": "OVRA athletic knitwear landing page featuring misty-orchid sportswear, WORKOUT photo collage, and Fresh Fits stencil marquee.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
